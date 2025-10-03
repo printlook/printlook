@@ -1,53 +1,61 @@
-# 👋 ¡Hola! Soy Pablo Cutzal  
+<!-- Perfil de GitHub de printlook -->
 
-🎓 Estudiante de **Ingeniería en Ciencias y Sistemas** en la **USAC (Campus Central)** – 7mo semestre.  
-💻 Apasionado por el **desarrollo de software, la nube y la tecnología**.  
-🚀 Busco crecer como desarrollador y aportar en proyectos que generen impacto.  
-
----
-
-## 🛠️ Tecnologías y Herramientas  
-
-### 👨‍💻 Lenguajes
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
-![C♯](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-
-### 🌐 Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-
-### ☁️ Cloud
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)  
+<h1 align="center">👋 Hola, soy Pablo (printlook)</h1>
+<h3 align="center">💻 Estudiante de Ingeniería en Ciencias y Sistemas | Apasionado por el desarrollo de software</h3>
 
 ---
 
-## 📊 GitHub Stats  
-
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight)  
-
----
-
-## 🚀 Proyectos Destacados  
-
-- 📌 **[Sistema de gestión de autos con Flask](#)**  
-- 📌 **[Analizador léxico en Python con Tkinter](#)**  
-- 📌 **[Aplicación de inventario en Fortran](#)**  
-- 📌 **[Despliegue de aplicación en AWS EC2 con S3](#)**  
+## 🚀 Sobre mí
+- 🎓 Estudio **Ingeniería en Ciencias y Sistemas**  
+- 🔭 Actualmente trabajando en proyectos con **Flask, Python y Fortran**  
+- 🌱 Aprendiendo **Django, análisis léxico/sintáctico y desarrollo web**  
+- 💡 Me gusta crear aplicaciones prácticas que solucionen problemas reales  
+- 🎯 Objetivo: crecer como **Full Stack Developer**  
 
 ---
 
-## 📫 Conéctate conmigo  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/TU-LINKEDIN)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pabloiga2017@gmail.com)  
+## 🌐 Conecta conmigo
+<p align="center">
+  <a href="https://github.com/printlook">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tu-linkedin-aqui">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
-✨ *“El código es como el humor: cuando tienes que explicarlo, no es tan bueno.”*  
 
+## ⚡ Tecnologías y Herramientas
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=printlook&show_icons=true&theme=radical" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=printlook&theme=radical&border_radius=5" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=printlook&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+## 🎯 Frase que me motiva
+> *“El éxito es la suma de pequeños esfuerzos repetidos día tras día.”*  
+
+---
+
+## 🐍 Diversión
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+
+---
